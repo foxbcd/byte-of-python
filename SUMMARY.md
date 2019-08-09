@@ -1,4 +1,4 @@
-# Summary
+# Table of contents
 
 * [介绍](README.md)
 * [献词](02.dedication.md)
@@ -24,5 +24,6 @@
 * [附录：版本变迁](21.about.md)
 * [附录：本书由来与修订历史](22.revision_history.md)
 * [附录：翻译](23.translations.md)
-* [附录：如何翻译](24.Translation-how-to.md)
-* [反馈](25.Feedback.md)
+* [附录：如何翻译](24.translation-how-to.md)
+* [反馈](25.feedback.md)
+
